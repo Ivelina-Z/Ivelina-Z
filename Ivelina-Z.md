@@ -1,5 +1,9 @@
 Hi 👋 My name is Ivelina
-========================I’m an electrical engineer with software development skills-----------------------------------------------------------* 🌍  I'm based in Varna, Bulgaria* ✉️  You can contact me at [iveta.zhekova@gmail.com](mailto:iveta.zhekova@gmail.com)* 🧠  I'm learning Python and Machine learning* ⚡  I have keen interest in application of machine learning in the scope of energy distribution, smart grids and renewable energy.
+========================
+I’m an electrical engineer with software development skills-----------------------------------------------------------*
+🌍  I'm based in Varna, Bulgaria* ✉️  You can contact me at [iveta.zhekova@gmail.com](mailto:iveta.zhekova@gmail.com)*
+🧠  I'm learning Python and Machine learning*
+⚡  I have keen interest in application of machine learning in the scope of energy distribution, smart grids and renewable energy.
 
 ### Skills
 
