@@ -38,15 +38,9 @@ I’m an electrical engineer with software development skills
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ivelina-Z" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivelina-Z&stroke=ec4899&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ec4899&currStreakLabel=0891b2&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" 
-href="https://github.com/Ivelina-Z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivelina-Z&langs_count=10&title_color=0891b2&text_color=ec4899&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/Ivelina-Z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ivelina-Z&bg_color=181824&color=ec4899&line=14b8a6&point=ec4899&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Activity Graph" /></a>
+<a href="http://www.github.com/Ivelina-Z" align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ivelina-Z&stroke=22c55e&background=181824&ring=ec4899&fire=ec4899&currStreakNum=22c55e&currStreakLabel=ec4899&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true"
+href="https://github.com/Ivelina-Z" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivelina-Z&langs_count=10&title_color=ec4899&text_color=22c55e&icon_color=ec4899&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Ivelina-Z/Anomaly-detection-in-PV-system" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivelina-Z&repo=Anomaly-detection-in-PV-system&title_color=0891b2&text_color=ec4899&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/Ivelina-Z/Object-Oriented-Programming-exam-prep" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivelina-Z&repo=Object-Oriented-Programming-exam-prep&title_color=0891b2&text_color=ec4899&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Ivelina-Z/PV-systems-missing-data-report" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Ivelina-Z&repo=PV-systems-missing-data-report&title_color=0891b2&text_color=ec4899&icon_color=14b8a6&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/Ivelina-Z"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ivelina-Z&bg_color=181824&color=22c55e&line=ec4899&point=22c55e&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
