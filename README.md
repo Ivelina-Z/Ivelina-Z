@@ -2,7 +2,7 @@ Hi 👋 My name is Ivelina
 ========================
 I’m an electrical engineer with software development skills
 ---------------------------------------------------------
-🌍  I'm based in Varna, Bulgaria
+🌍  I'm based in Bulgaria.
 
 ⚡  I have keen interest in application of machine learning in the scope of energy distribution, smart grids and renewable energy.
 
